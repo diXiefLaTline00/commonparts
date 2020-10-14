@@ -1,0 +1,52 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DA2033-AL_
+D Flyback transformer for Linear Technology LT3750
+K transformer, flyback
+F https://www.coilcraft.com/en-us/products/transformers/power-transformers/capacitor-charging/da203x/
+$ENDCMP
+#
+$CMP LM3488MM
+D High Efficiency Controller for Boost, SEPIC, and Buck Converters
+K buck boost
+F https://www.ti.com/lit/ds/symlink/lm3488.pdf?ts=1601901890566
+$ENDCMP
+#
+$CMP LM5022MM
+D 60-V Low-Side Controller for Boost and SEPIC, MSOP-10
+K boost switching controller
+F http://www.ti.com/lit/ds/symlink/lm5022.pdf
+$ENDCMP
+#
+$CMP LT3750
+D LT3750 is a flyback converter designed to rapidly charge large capacitors to a user-adjustable target voltage
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3750fa.pdf
+$ENDCMP
+#
+$CMP LT3751
+D High Voltage Capacitor Charger Controller with Regulation
+K boost capacitor charger high voltage
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LT3751.pdf
+$ENDCMP
+#
+$CMP LT6220
+D single 20V/us, low power, rail to rail input and output precision op-amp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/622012fc.pdf
+$ENDCMP
+#
+$CMP MAX11043
+D 4-Channel, 16-Bit, Simultaneous-Sampling ADCswith PGA, Filter, and 8-/12-Bit Dual-Stage DAC
+F https://datasheets.maximintegrated.com/en/ds/MAX11043.pdf
+$ENDCMP
+#
+$CMP Transformer_1P_1S
+D Transformer, single primary, single secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+$CMP ZYNQBERRY
+F https://www.trenz-electronic.de/fileadmin/docs/Trenz_Electronic/Modules_and_Module_Carriers/special/TE0726/REV03/Documents/TRM-TE0726-03.pdf
+$ENDCMP
+#
+#End Doc Library
